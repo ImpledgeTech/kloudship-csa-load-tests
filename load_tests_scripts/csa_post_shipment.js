@@ -44,7 +44,7 @@ const shipmentRequest = {
     street2: "",
     city: "Noida",
     stateCode: "UP",
-    zip: "201309",
+    zip: "281121",
     countryCode: "IN",
     phone: "9876543210",
     email: "demo-qa-admin@impledge.com",
